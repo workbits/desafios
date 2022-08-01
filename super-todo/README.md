@@ -6,10 +6,10 @@
 
 ## 👥  Participantes:
 
-- Davi Rezende
-- Geison
-- Iury
-- Gabriel
+- Davi Rezende (Github: https://github.com/davirezendemota | Linkedin: https://www.linkedin.com/in/davirezendemota/)
+- Geison (Github: https://github.com/geisondossantos | Linkedin: https://www.linkedin.com/in/geison-dos-santos-66b79975/)
+- Iury (Github: https://github.com/IuryGames1 | Linkedin: - )
+- Gabriel (Github: https://github.com/ichbingabe | Linkedin: https://www.linkedin.com/in/ichbingabe/)
  
 ## Desafio
 
